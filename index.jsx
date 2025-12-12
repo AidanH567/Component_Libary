@@ -4,7 +4,7 @@ import Badge from "./components/Badge/Badge"
 
 function App() {
   return (
-    <Badge color="purple">Badge</Badge>
+    <Badge color="gray">Badge</Badge>
   )
 }
 

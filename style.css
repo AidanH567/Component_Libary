@@ -122,19 +122,23 @@ button.button-danger {
 }
 
 .badge {
+  width: 67px;
+  height: 24px;
+  font-size: 20px;
   display: inline-flex;
   align-items: center;
   padding: 4px 10px;
-  border-radius: 999px;
+  border-radius: 10px;
   font-size: 0.85rem;
   font-weight: 500;
   line-height: 1;
   user-select: none;
   white-space: nowrap;
+  text-align: center;
 }
 
 .badge--gray {
-  background-color: #e5e7eb;
+  background-color: #F3F4F6;
   color: #374151;
 }
 
