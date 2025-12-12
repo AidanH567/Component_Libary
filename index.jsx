@@ -1,9 +1,10 @@
 import ReactDOM from 'react-dom/client';
+import Badge from "./components/Badge/Badge"
 
 
 function App() {
   return (
-    <h1>Your components go here</h1>
+    <Badge color="purple">Badge</Badge>
   )
 }
 
